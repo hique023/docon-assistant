@@ -6,7 +6,6 @@ import './styles.css'
 export default function Home() {
 
     function assistant() {
-
     }
 
     useEffect(() => {
